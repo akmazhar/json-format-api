@@ -1,76 +1,76 @@
 {
-    "courses": [
-      {
-        "id": 1,
-        "image": "https://i.ibb.co/1Gw61J3/Rectangle-1.png",
-        "Course": "Web Development Fundamentals",
-        "Details": "This course covers the basics of web development, including HTML, CSS, and JavaScript. Perfect for beginners.",
-        "Price": 299,
-        "Credit": "3 hrs"
-      },
-      {
-        "id": 2,
-        "image": "https://i.ibb.co/x7cWNvY/1-1.png",
-        "Course": "Python Programming for Beginners",
-        "Details": "Learn the fundamentals of Python programming, suitable for those new to coding.",
-        "Price": 249,
-        "Credit": "4 hrs"
-      },
-      {
-        "id": 3,
-        "image": "https://i.ibb.co/XVLrWSM/Rectangle-9.png",
-        "Course": "Data Science with R",
-        "Details": "Explore data science using the R programming language, including data analysis and visualization.",
-        "Price": 399,
-        "Credit": "5 hrs"
-      },
-      {
-        "id": 4,
-        "image": "https://i.ibb.co/sb9zvJD/Rectangle-3.png",
-        "Course": "JavaScript Application Development",
-        "Details": "Master JavaScript for web and application development, including popular frameworks.",
-        "Price": 349,
-        "Credit": "4 hrs"
-      },
-      {
-        "id": 5,
-        "image": "https://i.ibb.co/N7scX0W/1-2.png",
-        "Course": "Machine Learning and AI",
-        "Details": "Dive into the world of machine learning and artificial intelligence, with hands-on projects.",
-        "Price": 499,
-        "Credit": "6 hrs"
-      },
-      {
-        "id": 6,
-        "image": "https://i.ibb.co/WfwQbY3/Rectangle-5.png",
-        "Course": "Cybersecurity Fundamentals",
-        "Details": "Get started with cybersecurity, covering essential concepts and best practices.",
-        "Price": 299,
-        "Credit": "3 hrs"
-      },
-      {
-        "id": 7,
-        "image": "https://i.ibb.co/y6zq3nQ/Rectangle-6.png",
-        "Course": "Mobile App Development with React Native",
-        "Details": "Learn to build cross-platform mobile apps with React Native and JavaScript.",
-        "Price": 399,
-        "Credit": "4 hrs"
-      },
-      {
-        "id": 8,
-        "image": "https://i.ibb.co/TYnVK8k/1-3.png",
-        "Course": "Cloud Computing Essentials",
-        "Details": "Explore the fundamentals of cloud computing and services from leading providers",
-        "Price": 349,
-        "Credit": "3 hrs"
-      },
-      {
-        "id": 9,
-        "image": "https://i.ibb.co/2nFck62/1-4.png",
-        "Course": "Data Structures and Algorithms in C++",
-        "Details": "Master data structures and algorithms in C++ for efficient programming.",
-        "Price": 449,
-        "Credit": "5 hrs"
-      }
-    ]
+"courses": [
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/1Gw61J3/Rectangle-1.png",
+    "course": "Web Development Fundamentals",
+    "details": "This course covers the basics of web development, including HTML, CSS, and JavaScript. Perfect for beginners.",
+    "price": 299,
+    "credit": "3 hrs"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/x7cWNvY/1-1.png",
+    "course": "Python Programming for Beginners",
+    "details": "Learn the fundamentals of Python programming, suitable for those new to coding.",
+    "price": 249,
+    "credit": "4 hrs"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/XVLrWSM/Rectangle-9.png",
+    "course": "Data Science with R",
+    "details": "Explore data science using the R programming language, including data analysis and visualization.",
+    "price": 399,
+    "credit": "5 hrs"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/sb9zvJD/Rectangle-3.png",
+    "course": "JavaScript Application Development",
+    "details": "Master JavaScript for web and application development, including popular frameworks.",
+    "price": 349,
+    "credit": "4 hrs"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/N7scX0W/1-2.png",
+    "course": "Machine Learning and AI",
+    "details": "Dive into the world of machine learning and artificial intelligence, with hands-on projects.",
+    "price": 499,
+    "credit": "6 hrs"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/WfwQbY3/Rectangle-5.png",
+    "course": "Cybersecurity Fundamentals",
+    "details": "Get started with cybersecurity, covering essential concepts and best practices.",
+    "price": 299,
+    "credit": "3 hrs"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/y6zq3nQ/Rectangle-6.png",
+    "course": "Mobile App Development with React Native",
+    "details": "Learn to build cross-platform mobile apps with React Native and JavaScript.",
+    "price": 399,
+    "credit": "4 hrs"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/TYnVK8k/1-3.png",
+    "course": "Cloud Computing Essentials",
+    "details": "Explore the fundamentals of cloud computing and services from leading providers",
+    "price": 349,
+    "credit": "3 hrs"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/2nFck62/1-4.png",
+    "course": "Data Structures and Algorithms in C++",
+    "details": "Master data structures and algorithms in C++ for efficient programming.",
+    "price": 449,
+    "credit": "5 hrs"
+  }
+]
 }
