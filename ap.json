@@ -1,0 +1,94 @@
+{
+    "courses": [
+      {
+        "image": "https://i.ibb.co/TrxRQTN/2343312fed74fa58d1b1c86669fbd1f2.png",
+        "Course": "Web Development Fundamentals",
+        "Price": "Price : $ 299",
+        "Bookmark": "GoBook",
+        "Credit": "Credit : 3 Hours",
+        "Details": "This course covers the basics of web development, including HTML, CSS, and JavaScript. Perfect for beginners."
+      },
+  
+  
+      {
+        "image": "https://i.ibb.co/x7cWNvY/1-1.png",
+        "Course": "Python Programming for Beginners",
+         "Price": "Price : $ 249",
+         "Bookmark": "GoBook",
+        "Credit": "Credit : 4 Hours",
+        "Details": "Learn the fundamentals of Python programming, suitable for those new to coding."
+      },
+  
+  
+      {
+        "image": "https://i.ibb.co/ZTYVJBt/93277d162c60.png",
+        "Course": "Data Science with R",
+       "Price": "Price : $ 399",
+       "Bookmark": "GoBook",
+        "Credit": "Credit: 5 Hours",
+        "Details": "Explore data science using the R programming language, including data analysis and visualization."
+      },
+      {
+        "image": "https://i.ibb.co/qFx5n2G/njk.png",
+        "Course": "JavaScript Application Development",
+        "Price": "Price : $ 349",
+        "Bookmark": "GoBook",
+       "Credit": "Credit : 4 Hours",
+        "Details": "Master JavaScript for web and application development, including popular frameworks."
+      },
+  
+  
+      {
+        "image": "https://i.ibb.co/N7scX0W/1-2.png",
+        "Course": "Machine Learning and AI",
+        "Price": "Price : $ 499",
+        "Bookmark": "GoBook",
+        "Credit": "Credit : 6 Hours",
+        "Details": "Dive into the world of machine learning and artificial intelligence, with hands-on projects."
+      },
+  
+  
+      {
+        "image": "https://i.ibb.co/kSvbWrC/What-Fundamentals-of-Cybersecurity-Are-There.png",
+        "Course": "Cybersecurity Fundamentals",
+        "Price": "Price : $ 299",
+        "Bookmark": "GoBook",
+        "Credit": "Credit : 3 Hours",
+        "Details": "Get started with cybersecurity, covering essential concepts and best practices."  
+      },
+  
+  
+  
+  
+      {
+        "image": "https://i.ibb.co/KmZMs6W/main-features-of-react-native-for-mobile-app-development.jpg",
+        "Course": "Mobile App Development with React Native",
+        "Price": "Price : $ 399",
+        "Bookmark": "GoBook",
+        "Credit": "Credit : 4 Hours",
+        "Details": "Learn to build cross-platform mobile apps with React Native and JavaScript."
+      },
+  
+  
+      {
+        "image": "https://i.ibb.co/TYnVK8k/1-3.png",
+        "Course": "Cloud Computing Essentials",
+        "Price": "Price: $ 349",
+        "Bookmark": "GoBook",
+        "Credit": "Credit : 3 Hours",
+        "Details": "Explore the fundamentals of cloud computing and services from leading providers"
+      },
+  
+  
+      {
+        "image": "https://i.ibb.co/2nFck62/1-4.png",
+        "Course": "Data Structures and Algorithms in C++",
+        "Price": "Price: $ 449",
+        "Bookmark": "GoBook",
+         "Credit": "Credit : 5 Hours",
+        "Details": "Master data structures and algorithms in C++ for efficient programming."
+      }
+
+    ]
+}
+  
