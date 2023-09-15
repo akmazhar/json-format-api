@@ -6,7 +6,7 @@
         "Course": "Web Development Fundamentals",
         "Details": "This course covers the basics of web development, including HTML, CSS, and JavaScript. Perfect for beginners.",
         "Price": 299,
-        "Credit": "3 Hours"
+        "Credit": "3 hrs"
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "Course": "Python Programming for Beginners",
         "Details": "Learn the fundamentals of Python programming, suitable for those new to coding.",
         "Price": 249,
-        "Credit": "4 Hours"
+        "Credit": "4 hrs"
       },
       {
         "id": 3,
@@ -22,7 +22,7 @@
         "Course": "Data Science with R",
         "Details": "Explore data science using the R programming language, including data analysis and visualization.",
         "Price": 399,
-        "Credit": "5 Hours"
+        "Credit": "5 hrs"
       },
       {
         "id": 4,
@@ -30,7 +30,7 @@
         "Course": "JavaScript Application Development",
         "Details": "Master JavaScript for web and application development, including popular frameworks.",
         "Price": 349,
-        "Credit": "4 Hours"
+        "Credit": "4 hrs"
       },
       {
         "id": 5,
@@ -38,7 +38,7 @@
         "Course": "Machine Learning and AI",
         "Details": "Dive into the world of machine learning and artificial intelligence, with hands-on projects.",
         "Price": 499,
-        "Credit": "6 Hours"
+        "Credit": "6 hrs"
       },
       {
         "id": 6,
@@ -46,7 +46,7 @@
         "Course": "Cybersecurity Fundamentals",
         "Details": "Get started with cybersecurity, covering essential concepts and best practices.",
         "Price": 299,
-        "Credit": "3 Hours"
+        "Credit": "3 hrs"
       },
       {
         "id": 7,
@@ -54,7 +54,7 @@
         "Course": "Mobile App Development with React Native",
         "Details": "Learn to build cross-platform mobile apps with React Native and JavaScript.",
         "Price": 399,
-        "Credit": "4 Hours"
+        "Credit": "4 hrs"
       },
       {
         "id": 8,
@@ -62,7 +62,7 @@
         "Course": "Cloud Computing Essentials",
         "Details": "Explore the fundamentals of cloud computing and services from leading providers",
         "Price": 349,
-        "Credit": "3 Hours"
+        "Credit": "3 hrs"
       },
       {
         "id": 9,
@@ -70,7 +70,7 @@
         "Course": "Data Structures and Algorithms in C++",
         "Details": "Master data structures and algorithms in C++ for efficient programming.",
         "Price": 449,
-        "Credit": "5 Hours"
+        "Credit": "5 hrs"
       }
     ]
   }
