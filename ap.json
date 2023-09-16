@@ -6,7 +6,7 @@
       "course": "Web Development Fundamentals",
       "details": "This course covers the basics of web development, including HTML, CSS, and JavaScript. Perfect for beginners.",
       "price": 299,
-      "credit": 3 "credit hrs"
+      "credit": 3,
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "course": "Python Programming for Beginners",
       "details": "Learn the fundamentals of Python programming, suitable for those new to coding.",
       "price": 249,
-      "credit": 4 "credit hrs"
+      "credit": 4,
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "course": "Data Science with R",
       "details": "Explore data science using the R programming language, including data analysis and visualization.",
       "price": 399,
-      "credit": "Credit: 5 hrs"
+      "credit": 5,
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "course": "JavaScript Application Development",
       "details": "Master JavaScript for web and application development, including popular frameworks.",
       "price": 349,
-      "credit": "4 hrs"
+      "credit": 4,
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "course": "Machine Learning and AI",
       "details": "Dive into the world of machine learning and artificial intelligence, with hands-on projects.",
       "price": 499,
-      "credit":  6 "credit hrs"
+      "credit": 6,
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "course": "Cybersecurity Fundamentals",
       "details": "Get started with cybersecurity, covering essential concepts and best practices.",
       "price": 239,
-      "credit": 3 "credit hrs"
+      "credit": 3,
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "course": "Mobile App Development with React Native",
       "details": "Learn to build cross-platform mobile apps with React Native and JavaScript.",
       "price": 220,
-      "credit": 2 "credit hrs"
+      "credit": 2,
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "course": "GRE, IELTS, Article & Content Writing by A K M Azhar",
       "details": "Embark on a journey to unlock the secrets of powerful four skills.",
       "price":  310,
-      "credit": 2 "credit hrs"
+      "credit": 3,
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "course": "Data Structures and Algorithms in C++",
       "details": "Master data structures and algorithms in C++ for efficient programming.",
       "price": 479,
-      "credit": 5 "credit hrs"
+      "credit": 5,
     }
   ]
   }
